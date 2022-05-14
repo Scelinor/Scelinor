@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Scelinor
+- 👀 I’m interested in get a new job at IT
+- 🌱 I’m currently learning Angular and CSS
+- 📫 How to reach me: https://www.linkedin.com/in/juana-escobar-pinz%C3%B3n/
