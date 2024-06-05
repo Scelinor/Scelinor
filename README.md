@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Scelinor
-- 👀 I’m a Jr Data Engineer
-- 🌱 I’m currently learning Python and Airflow
+- 👀 I’m a Ssr Data Engineer
+- 🌱 I’m currently learning AWS
 - 📫 How to reach me: https://www.linkedin.com/in/juana-escobar-pinz%C3%B3n/
